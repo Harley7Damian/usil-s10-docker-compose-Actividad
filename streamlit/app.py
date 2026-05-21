@@ -84,7 +84,7 @@ def inject_styles():
         }
 
         [data-testid="stSidebar"] {
-            background: #e6f2ff;
+            background: #cfe8ff;
             border-right: 1px solid var(--line);
         }
 
